@@ -26,7 +26,7 @@ Run as a Django command:
 
     python manage.py tweet_new_commit
 
-**Not Django user ?** It's easy to clear the file to get working example.  Try :)
+**Not Django user ?** It's easy to clear the file to get working example. Only delete Django 'extra lines' you don't understand. Try it:)
 
 Contacts:
 ----
