@@ -1,6 +1,6 @@
 TweetPyGit
 ==========
-*Update your Twitter account with the last Git commit. Written in Python as a Django command.*
+*Update your Twitter status with the last Git commit. Written in Python as a Django command.*
 
 Requirements: 
 ----
