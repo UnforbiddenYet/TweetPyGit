@@ -6,7 +6,7 @@ from git import Repo
 from django.core.management.base import BaseCommand
 
 # Git repository path
-git_path = '/your/path/to/repository/'
+git_path = '/path/to/your/repository/'
 
 # Twitter oauth file with ACCESS_KEY, ACCESS_SECRET
 # file located in the same path as this script
